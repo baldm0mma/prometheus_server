@@ -28,7 +28,7 @@ A quick and dirty Python 3 server that emits metrics for collection via Promethe
 1. Start the Python 3 mock metrics server:
 
    ```
-   python mock_server.py
+   python3 mock_server.py
    ```
 
 2. Spin up Prometheus using Docker Compose:
@@ -51,6 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+Jev Forsberg - jev.forsberg@gmail.com
